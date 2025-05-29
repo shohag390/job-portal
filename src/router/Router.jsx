@@ -6,6 +6,10 @@ import ContactsLaytout from "../layouts/ContactsLaytout";
 import Login from "../pages/Auth/Login";
 import Register from "../pages/Auth/Register";
 import ErrorPage from "../pages/ErrorPage/ErrorPage";
+import Jobs from "../pages/Jobs/Jobs";
+import JobDeatils from "../pages/Jobs/JobDeatils";
+import PricingLayout from "../layouts/PricingLayout";
+import Profile from "../Dashboard/Profile/Profile";
 
 
 
@@ -30,12 +34,28 @@ const router = createBrowserRouter([
                 Component: ContactsLaytout,
             },
             {
+                path: "/pricing-plan",
+                Component: PricingLayout,
+            },
+            {
+                path: "/jobs",
+                Component: Jobs,
+            },
+            {
+                path: "/jobs/:id",
+                Component: JobDeatils,
+            },
+            {
                 path: "/login",
                 Component: Login,
             },
             {
                 path: "/register",
                 Component: Register,
+            },
+            {
+                path: "/profile",
+                Component: Profile,
             },
         ]
     }

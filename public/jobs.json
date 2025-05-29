@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "companyLogo": "https://example.com/logos/technova.png",
+        "jobType": "Frontend Developer",
+        "companyName": "TechNova",
+        "country": "USA",
+        "vacancy": 3,
+        "applied": 12,
+        "releaseDate": "2025-05-20",
+        "description": "TechNova is on the lookout for a talented and passionate Frontend Developer who thrives in a collaborative environment. You will be responsible for transforming design mockups into responsive, scalable, and user-friendly web applications. As a member of our development team, you will work closely with UX designers, product managers, and backend engineers to deliver high-quality software solutions that meet our users’ needs and expectations.",
+        "responsibilitiesAndDuties": [
+            "Develop responsive web interfaces",
+            "Collaborate with designers and backend developers",
+            "Optimize applications for performance and scalability"
+        ],
+        "requiredExperienceSkillsAndQualifications": [
+            "2+ years of experience in React",
+            "Strong knowledge of HTML, CSS, and JavaScript",
+            "Familiarity with RESTful APIs"
+        ]
+    },
+    {
+        "id": 2,
+        "companyLogo": "https://example.com/logos/codecrush.png",
+        "jobType": "Backend Developer",
+        "companyName": "CodeCrush",
+        "country": "Canada",
+        "vacancy": 2,
+        "applied": 5,
+        "releaseDate": "2025-05-22",
+        "description": "At CodeCrush, we're seeking a Backend Developer who can design and implement robust backend services. You'll play a critical role in building APIs, managing databases, and ensuring our systems are secure and performant. You should be comfortable working with modern backend frameworks and understand the importance of clean, testable code in a fast-paced Agile environment.",
+        "responsibilitiesAndDuties": [
+            "Design and maintain backend systems",
+            "Ensure data security and privacy",
+            "Integrate external services and databases"
+        ],
+        "requiredExperienceSkillsAndQualifications": [
+            "3+ years with Node.js or Django",
+            "Experience with SQL and NoSQL databases",
+            "Understanding of CI/CD pipelines"
+        ]
+    },
+    {
+        "id": 3,
+        "companyLogo": "https://example.com/logos/insightx.png",
+        "jobType": "Data Analyst",
+        "companyName": "InsightX",
+        "country": "UK",
+        "vacancy": 1,
+        "applied": 8,
+        "releaseDate": "2025-05-25",
+        "description": "InsightX is looking for a Data Analyst with a passion for data and analytics. This role involves collecting, processing, and analyzing data to help guide business decisions. The ideal candidate will have a strong foundation in statistics and data visualization and be able to communicate findings effectively to non-technical stakeholders.",
+        "responsibilitiesAndDuties": [
+            "Analyze large datasets",
+            "Create reports and dashboards",
+            "Work with stakeholders to define KPIs"
+        ],
+        "requiredExperienceSkillsAndQualifications": [
+            "Strong skills in SQL and Excel",
+            "Experience with Tableau or Power BI",
+            "Good communication skills"
+        ]
+    },
+    {
+        "id": 4,
+        "companyLogo": "https://example.com/logos/creativespark.png",
+        "jobType": "UI/UX Designer",
+        "companyName": "CreativeSpark",
+        "country": "Australia",
+        "vacancy": 2,
+        "applied": 14,
+        "releaseDate": "2025-05-18",
+        "description": "CreativeSpark is seeking a creative and detail-oriented UI/UX Designer to craft engaging user experiences. You'll be working in a fast-paced, creative environment designing apps and websites that are not only visually compelling but also user-centric. This role requires a strong eye for aesthetics and an analytical approach to user behavior and design iteration.",
+        "responsibilitiesAndDuties": [
+            "Design wireframes and mockups",
+            "Conduct user research and usability testing",
+            "Collaborate with frontend developers"
+        ],
+        "requiredExperienceSkillsAndQualifications": [
+            "Proficiency in Figma or Adobe XD",
+            "Strong understanding of UX principles",
+            "Portfolio of previous design projects"
+        ]
+    },
+    {
+        "id": 5,
+        "companyLogo": "https://example.com/logos/neurotech.png",
+        "jobType": "Machine Learning Engineer",
+        "companyName": "NeuroTech",
+        "country": "Germany",
+        "vacancy": 1,
+        "applied": 3,
+        "releaseDate": "2025-05-27",
+        "description": "NeuroTech is revolutionizing the AI space and is looking for a Machine Learning Engineer to join our innovative team. You will work on cutting-edge problems involving natural language processing, computer vision, and predictive analytics. Your contributions will directly impact our AI-powered products, used by thousands of customers globally.",
+        "responsibilitiesAndDuties": [
+            "Build and train ML models",
+            "Deploy models in production",
+            "Analyze model performance and iterate"
+        ],
+        "requiredExperienceSkillsAndQualifications": [
+            "Experience with Python and TensorFlow",
+            "Knowledge of data preprocessing techniques",
+            "Strong math and statistics background"
+        ]
+    },
+    {
+        "id": 6,
+        "companyLogo": "https://example.com/logos/appgenius.png",
+        "jobType": "Mobile App Developer",
+        "companyName": "AppGenius",
+        "country": "India",
+        "vacancy": 4,
+        "applied": 20,
+        "releaseDate": "2025-05-15",
+        "description": "AppGenius is hiring a Mobile App Developer to help build intuitive and high-performing mobile applications. If you are someone who enjoys turning complex problems into simple, beautiful solutions on both iOS and Android, then this is the perfect opportunity to be part of our rapidly growing team.",
+        "responsibilitiesAndDuties": [
+            "Develop apps using Flutter or React Native",
+            "Maintain and update existing apps",
+            "Ensure cross-platform compatibility"
+        ],
+        "requiredExperienceSkillsAndQualifications": [
+            "2+ years in mobile app development",
+            "Experience with Firebase",
+            "Understanding of mobile UI/UX best practices"
+        ]
+    },
+    {
+        "id": 7,
+        "companyLogo": "https://example.com/logos/devmasters.png",
+        "jobType": "Full Stack Developer",
+        "companyName": "DevMasters",
+        "country": "Netherlands",
+        "vacancy": 3,
+        "applied": 10,
+        "releaseDate": "2025-05-28",
+        "description": "DevMasters is looking for a Full Stack Developer to join our agile and collaborative software development team. The role involves working across the stack, from database to UI, building performant web applications that provide outstanding user experience. Ideal candidates will be self-driven and excited to work with modern JavaScript technologies.",
+        "responsibilitiesAndDuties": [
+            "Develop and maintain web applications",
+            "Collaborate across departments",
+            "Write clean and efficient code"
+        ],
+        "requiredExperienceSkillsAndQualifications": [
+            "Experience in MERN stack",
+            "Understanding of Agile methodologies",
+            "Good problem-solving skills"
+        ]
+    },
+    {
+        "id": 8,
+        "companyLogo": "https://example.com/logos/secureshield.png",
+        "jobType": "Cybersecurity Analyst",
+        "companyName": "SecureShield",
+        "country": "Singapore",
+        "vacancy": 2,
+        "applied": 6,
+        "releaseDate": "2025-05-26",
+        "description": "SecureShield is expanding and seeking a Cybersecurity Analyst to help protect our data infrastructure. You will be responsible for identifying vulnerabilities, monitoring threats, and ensuring compliance with industry regulations. If you're passionate about cybersecurity and proactive in learning the latest technologies, we want to hear from you.",
+        "responsibilitiesAndDuties": [
+            "Monitor security alerts and breaches",
+            "Perform vulnerability assessments",
+            "Develop security policies"
+        ],
+        "requiredExperienceSkillsAndQualifications": [
+            "Knowledge of SIEM tools",
+            "Understanding of network protocols",
+            "Certifications like CEH or CISSP preferred"
+        ]
+    }
+]
