@@ -1,14 +1,15 @@
 [
     {
         "id": 1,
-        "companyLogo": "https://example.com/logos/technova.png",
-        "jobType": "Frontend Developer",
+        "jobTitle": "Frontend Developer",
+        "companyLogo": "https://i.ibb.co/WWp9wNMh/company.png",
         "companyName": "TechNova",
         "country": "USA",
         "vacancy": 3,
         "applied": 12,
+        "jobType": "Full Time",
         "releaseDate": "2025-05-20",
-        "description": "TechNova is on the lookout for a talented and passionate Frontend Developer who thrives in a collaborative environment. You will be responsible for transforming design mockups into responsive, scalable, and user-friendly web applications. As a member of our development team, you will work closely with UX designers, product managers, and backend engineers to deliver high-quality software solutions that meet our users’ needs and expectations.",
+        "description": "TechNova is on the lookout for a talented and passionate Frontend Developer...",
         "responsibilitiesAndDuties": [
             "Develop responsive web interfaces",
             "Collaborate with designers and backend developers",
@@ -22,14 +23,15 @@
     },
     {
         "id": 2,
-        "companyLogo": "https://example.com/logos/codecrush.png",
-        "jobType": "Backend Developer",
+        "jobTitle": "Backend Developer",
+        "companyLogo": "https://i.ibb.co/21NScQ29/company-1.png",
         "companyName": "CodeCrush",
         "country": "Canada",
         "vacancy": 2,
         "applied": 5,
+        "jobType": "Part Time",
         "releaseDate": "2025-05-22",
-        "description": "At CodeCrush, we're seeking a Backend Developer who can design and implement robust backend services. You'll play a critical role in building APIs, managing databases, and ensuring our systems are secure and performant. You should be comfortable working with modern backend frameworks and understand the importance of clean, testable code in a fast-paced Agile environment.",
+        "description": "At CodeCrush, we're seeking a Backend Developer who can design and implement robust backend services...",
         "responsibilitiesAndDuties": [
             "Design and maintain backend systems",
             "Ensure data security and privacy",
@@ -43,14 +45,15 @@
     },
     {
         "id": 3,
-        "companyLogo": "https://example.com/logos/insightx.png",
-        "jobType": "Data Analyst",
+        "jobTitle": "Data Analyst",
+        "companyLogo": "https://i.ibb.co/x8Xx7X9D/android.png",
         "companyName": "InsightX",
         "country": "UK",
         "vacancy": 1,
         "applied": 8,
+        "jobType": "Part Time",
         "releaseDate": "2025-05-25",
-        "description": "InsightX is looking for a Data Analyst with a passion for data and analytics. This role involves collecting, processing, and analyzing data to help guide business decisions. The ideal candidate will have a strong foundation in statistics and data visualization and be able to communicate findings effectively to non-technical stakeholders.",
+        "description": "InsightX is looking for a Data Analyst with a passion for data and analytics...",
         "responsibilitiesAndDuties": [
             "Analyze large datasets",
             "Create reports and dashboards",
@@ -64,14 +67,15 @@
     },
     {
         "id": 4,
-        "companyLogo": "https://example.com/logos/creativespark.png",
-        "jobType": "UI/UX Designer",
+        "jobTitle": "UI/UX Designer",
+        "companyLogo": "https://i.ibb.co/tPP6LvqY/company-2.png",
         "companyName": "CreativeSpark",
         "country": "Australia",
         "vacancy": 2,
         "applied": 14,
+        "jobType": "Remote",
         "releaseDate": "2025-05-18",
-        "description": "CreativeSpark is seeking a creative and detail-oriented UI/UX Designer to craft engaging user experiences. You'll be working in a fast-paced, creative environment designing apps and websites that are not only visually compelling but also user-centric. This role requires a strong eye for aesthetics and an analytical approach to user behavior and design iteration.",
+        "description": "CreativeSpark is seeking a creative and detail-oriented UI/UX Designer...",
         "responsibilitiesAndDuties": [
             "Design wireframes and mockups",
             "Conduct user research and usability testing",
@@ -85,14 +89,15 @@
     },
     {
         "id": 5,
-        "companyLogo": "https://example.com/logos/neurotech.png",
-        "jobType": "Machine Learning Engineer",
+        "jobTitle": "Machine Learning Engineer",
+        "companyLogo": "https://i.ibb.co/V03gJLjd/company-3.png",
         "companyName": "NeuroTech",
         "country": "Germany",
         "vacancy": 1,
         "applied": 3,
+        "jobType": "Full Time",
         "releaseDate": "2025-05-27",
-        "description": "NeuroTech is revolutionizing the AI space and is looking for a Machine Learning Engineer to join our innovative team. You will work on cutting-edge problems involving natural language processing, computer vision, and predictive analytics. Your contributions will directly impact our AI-powered products, used by thousands of customers globally.",
+        "description": "NeuroTech is revolutionizing the AI space and is looking for a Machine Learning Engineer...",
         "responsibilitiesAndDuties": [
             "Build and train ML models",
             "Deploy models in production",
@@ -106,14 +111,15 @@
     },
     {
         "id": 6,
-        "companyLogo": "https://example.com/logos/appgenius.png",
-        "jobType": "Mobile App Developer",
+        "jobTitle": "Mobile App Developer",
+        "companyLogo": "https://i.ibb.co/Fv7tpnC/company-4.png",
         "companyName": "AppGenius",
         "country": "India",
         "vacancy": 4,
         "applied": 20,
+        "jobType": "Full Time",
         "releaseDate": "2025-05-15",
-        "description": "AppGenius is hiring a Mobile App Developer to help build intuitive and high-performing mobile applications. If you are someone who enjoys turning complex problems into simple, beautiful solutions on both iOS and Android, then this is the perfect opportunity to be part of our rapidly growing team.",
+        "description": "AppGenius is hiring a Mobile App Developer...",
         "responsibilitiesAndDuties": [
             "Develop apps using Flutter or React Native",
             "Maintain and update existing apps",
@@ -127,14 +133,15 @@
     },
     {
         "id": 7,
-        "companyLogo": "https://example.com/logos/devmasters.png",
-        "jobType": "Full Stack Developer",
+        "jobTitle": "Full Stack Developer",
+        "companyLogo": "https://i.ibb.co/39Dh8DvY/company-5.png",
         "companyName": "DevMasters",
         "country": "Netherlands",
         "vacancy": 3,
         "applied": 10,
+        "jobType": "Part Time",
         "releaseDate": "2025-05-28",
-        "description": "DevMasters is looking for a Full Stack Developer to join our agile and collaborative software development team. The role involves working across the stack, from database to UI, building performant web applications that provide outstanding user experience. Ideal candidates will be self-driven and excited to work with modern JavaScript technologies.",
+        "description": "DevMasters is looking for a Full Stack Developer...",
         "responsibilitiesAndDuties": [
             "Develop and maintain web applications",
             "Collaborate across departments",
@@ -148,14 +155,15 @@
     },
     {
         "id": 8,
-        "companyLogo": "https://example.com/logos/secureshield.png",
-        "jobType": "Cybersecurity Analyst",
+        "jobTitle": "Cybersecurity Analyst",
+        "companyLogo": "https://i.ibb.co/0yThHkHW/company-6.png",
         "companyName": "SecureShield",
         "country": "Singapore",
         "vacancy": 2,
         "applied": 6,
+        "jobType": "Remote",
         "releaseDate": "2025-05-26",
-        "description": "SecureShield is expanding and seeking a Cybersecurity Analyst to help protect our data infrastructure. You will be responsible for identifying vulnerabilities, monitoring threats, and ensuring compliance with industry regulations. If you're passionate about cybersecurity and proactive in learning the latest technologies, we want to hear from you.",
+        "description": "SecureShield is expanding and seeking a Cybersecurity Analyst...",
         "responsibilitiesAndDuties": [
             "Monitor security alerts and breaches",
             "Perform vulnerability assessments",
@@ -165,6 +173,28 @@
             "Knowledge of SIEM tools",
             "Understanding of network protocols",
             "Certifications like CEH or CISSP preferred"
+        ]
+    },
+    {
+        "id": 9,
+        "jobTitle": "DevOps Engineer",
+        "companyLogo": "https://i.ibb.co/tPP6LvqY/company-2.png",
+        "companyName": "CloudCore",
+        "country": "Sweden",
+        "vacancy": 2,
+        "applied": 7,
+        "jobType": "Full Time",
+        "releaseDate": "2025-05-30",
+        "description": "CloudCore is in search of a DevOps Engineer to streamline our development and deployment processes. You'll help automate infrastructure, manage CI/CD pipelines, and work closely with development and operations teams to ensure smooth software delivery.",
+        "responsibilitiesAndDuties": [
+            "Maintain and improve CI/CD pipelines",
+            "Automate infrastructure with tools like Terraform",
+            "Monitor system performance and uptime"
+        ],
+        "requiredExperienceSkillsAndQualifications": [
+            "Experience with AWS or Azure",
+            "Knowledge of Docker and Kubernetes",
+            "Proficient in scripting (Bash, Python, etc.)"
         ]
     }
 ]

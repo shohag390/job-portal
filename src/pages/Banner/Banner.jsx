@@ -13,9 +13,9 @@ const Banner = () => {
                         <FiSearch className='text-[20px]' />
                         <input className='focus:outline-none w-full' type="text" placeholder='Search jobs & candidates...' />
                     </div>
-                    <button class="relative w-[30%] h-full text-white bg-[#3b82f6] overflow-hidden group rounded-full border-[1px] border-[#ffffffa0]">
-                        <span class="absolute -top-1/2 -left-1/2 w-full h-[200%] bg-white opacity-10 rotate-45 group-hover:translate-x-full transition-transform duration-500 ease-out"></span>
-                        <span class="relative z-10">
+                    <button className="relative w-[30%] h-full text-white bg-[#3b82f6] overflow-hidden group rounded-full border-[1px] border-[#ffffffa0]">
+                        <span className="absolute -top-1/2 -left-1/2 w-full h-[200%] bg-white opacity-10 rotate-45 group-hover:translate-x-full transition-transform duration-500 ease-out"></span>
+                        <span className="relative z-10">
                             SEARCH
                         </span>
                     </button>

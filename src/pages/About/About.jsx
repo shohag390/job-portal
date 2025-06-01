@@ -33,9 +33,9 @@ const About = () => {
                         <span className='text-[#5c626b]'>Create your own skin to match your brand</span>
                     </div>
                 </div>
-                <button class="relative px-[40px] py-[10px] text-white bg-[#3b82f6] overflow-hidden group rounded-full border-[1px] border-[#ffffffa0] btn">
-                    <span class="absolute -top-1/2 -left-1/2 w-full h-[200%] bg-white opacity-10 rotate-45 group-hover:translate-x-full transition-transform duration-500 ease-out"></span>
-                    <span class="relative z-10">
+                <button className="relative px-[40px] py-[10px] text-white bg-[#3b82f6] overflow-hidden group rounded-full border-[1px] border-[#ffffffa0] btn">
+                    <span className="absolute -top-1/2 -left-1/2 w-full h-[200%] bg-white opacity-10 rotate-45 group-hover:translate-x-full transition-transform duration-500 ease-out"></span>
+                    <span className="relative z-10">
                         ABOUT US
                     </span>
                 </button>
